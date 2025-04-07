@@ -1,0 +1,6 @@
+@use 'variables';
+
+.site-header {
+  @media screen and (max-width: variables.$sp-max-width) {
+  }
+}

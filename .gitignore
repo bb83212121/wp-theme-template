@@ -1,0 +1,19 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore .env file
+.env
+
+# Ignore logs
+*.log
+
+# Ignore build and dist directories
+#/dist
+/build
+
+# Ignore OS-specific files (e.g., macOS, Windows)
+.DS_Store
+Thumbs.db
+
+themes/genesis/assets/css
+themes/genesis/assets/js

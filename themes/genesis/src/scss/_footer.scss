@@ -1,0 +1,6 @@
+@use 'variables';
+
+.site-footer {
+  @media screen and (max-width: variables.$sp-max-width) {
+  }
+}

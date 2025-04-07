@@ -1,0 +1,3 @@
+# move to the src folder
+npm i gsap jquery
+npm i -D @babel/core babel-loader sass webpack webpack-cli
