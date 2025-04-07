@@ -10,6 +10,6 @@
 </script>
 
 <main id="main_content" class="main_content home-page">
-</main
+</main>
 
 <?php get_footer(); ?>

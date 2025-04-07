@@ -44,7 +44,4 @@
     </div>
     <div class="fixed-sp-header-container">
     </div>
-    <div class='topscroll-btn'>
-      <i class="fa-solid fa-angle-up"></i>
-    </div>
   </header>
